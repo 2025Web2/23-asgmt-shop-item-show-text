@@ -20,7 +20,7 @@ sort: 2
 
 ---
 
-1. 本課題の[課題ページ](https://classroom.github.com/a/LPrKgkyT)に再度アクセスする
+1. 本課題の[課題ページ](https://classroom.github.com/a/QVSgq8Z8)に再度アクセスする
 2. 画面上部にある`Actions`をクリックする<br>
 ![](./images/acions.png)
 1. **一番上**の行に、緑色のチェックが入っていればOK<br>
