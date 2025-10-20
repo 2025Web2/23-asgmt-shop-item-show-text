@@ -42,7 +42,7 @@ sort: 1
     │
     resources
     ├── views
-    │   ├── items
+    │   ├── item
     │   │   └── index.blade.php    
     │   └── index.blade.php
     routes
