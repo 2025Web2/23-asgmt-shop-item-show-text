@@ -30,6 +30,8 @@ Route::get('item/show/{item}', [ItemController::class, 'show'])->name('item.show
 
 **resources/views/item/index.blade.php**
 
+{% raw %}
+
 ```php
 <!DOCTYPE html>
 <html lang="ja">
@@ -136,3 +138,4 @@ class ItemController extends Controller
 </html>
 ```
 
+{% endraw %}
